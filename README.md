@@ -1,4 +1,4 @@
-👋 Hi there! I'm [Your Name], a tech enthusiast with a Master's in Information Technology and Science, specializing in Information Technology Management, and a Bachelor's in Computer Science and Engineering.
+👋 Hi there! I'm Sai Usha Shrree Vuppala, a tech enthusiast with a Master's in Information Technology and Science, specializing in Information Technology Management, and a Bachelor's in Computer Science and Engineering.
 
 🎓 Education:
 - 🎓 Master's in Information Technology (Specialization: Information Technology Management).
